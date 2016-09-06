@@ -1,4 +1,4 @@
-Control and training data for [Dubliner](https://github.com/cmdrmacarye/dubliner)
+Control and training data for [Dubliner](https://bitbucket.org/lorinescu/dubliner)
 
 Installing Tesseract:
 
